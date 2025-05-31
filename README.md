@@ -92,6 +92,6 @@ This project is for educational and demo purposes.
 
 ---
 
-## drive link
+## drive link for project
 
 https://drive.google.com/file/d/1Vpk2B67kzhesqHTMAmiZmnWclDEP-jYC/view?usp=sharing
